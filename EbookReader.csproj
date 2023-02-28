@@ -15,4 +15,9 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Books\" />
+    <Folder Include="DataStructure\" />
+  </ItemGroup>
 </Project>
